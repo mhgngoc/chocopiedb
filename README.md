@@ -2,7 +2,7 @@
 
 > *"Orion is Chocopie, Chocopie is Orion"*
 
-Chocopiedb is created using mysql and contains information about my chocopie purchases this year, 2020. 
+Chocopiedb is created using mysql and contains information about my chocopie purchases this year, 2020.
 
 **Overview of the database**
 ```sql
@@ -29,3 +29,5 @@ In 2020, I have spent **47.90 SGD** for **11 times** purchasing Chocopie which g
 Each pack of chocopie costs me **39.9c** on average.**Orion chocopie** is the most expensive, **46.7c** for the one sold in a big box (12pcs/box - surprise!) and **40.0c** for the one sold in a small box (6pcs/box). This also makes sense as Orion chocopie isn't available in NTUC Fairprice which is the most popular supermarket chain in Singapore. It can only be found in Korean marts and obviously, its price is marked-up much more than **Lotte chocopie** which is available in NTUC and cost **37.3c** per package.
 
 **120 packages** of chocopie is equivalent to **15,222 calories** (!!!--fainting) which is equal to ~ 10 days of my recommended daily calories intake! But then, nothing can be compared to a package of sweet chewy chocopie....
+
+![alt text](chocopie.png "chocopiedb")  
